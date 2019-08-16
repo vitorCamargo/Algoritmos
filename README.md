@@ -19,4 +19,4 @@ The main objectives of this work are:
 The project are divided in two parts, the first one is covert alphabet caracters in morse coding, using an input file called *decodificado.txt* and return the result in the file: *codificado.txt*. The second part is the opposite, it means, that is a converter from morse coding to our alphabet caracters using the file *codificado.txt* to *decodificado.txt*.
 In the following image you can see the convertion table used for this program.
 
-<img src = 'https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' alt = 'Convertion Table' width = '284' height = '104' style = 'width: 284px; height: 104px;' />
+<img src = 'https://github.com/vitorCamargo/algorithms/blob/master/C%C3%B3digo%20Morse/convertion-table.png' alt = 'Convertion Table' />
