@@ -20,3 +20,25 @@ The project are divided in two parts, the first one is covert alphabet caracters
 In the following image you can see the convertion table used for this program.
 
 <img src = 'https://github.com/vitorCamargo/algorithms/blob/master/C%C3%B3digo%20Morse/convertion-table.png' alt = 'Convertion Table' />
+
+### Interruptor (Compatibilidade de Conectores) / Power Plugs (Connector Compatibility)
+Given a file *entrada.txt* that contains two lines with five binary numbers (0 represents an outlet and 1 represents a plug), verify that both connectors are compatible and print "Compatible" or "Incompatible" as a result of your analysis.
+
+For a simple example, if you have the following entry, the system will print "Incompatible"
+```
+1 0 0 1 0
+1 0 1 1 0
+```
+
+But, if the input file be:
+```
+1 1 0 1 0
+0 0 1 0 1
+```
+
+The output will be: "Compatible".
+
+### Jogo da Velha / Tic-tac-toe
+The main objectives of this work are:
+• Develop an application that implements a tic-tac-toe game;
+• The app must allow two players to play 1 match, and in the end inform the winner or draw.
